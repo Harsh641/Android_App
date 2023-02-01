@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/buttons.xml" value="0.162" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/edit_text.xml" value="0.162" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/edit_text_2.xml" value="0.162" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/edit_text_3.xml" value="0.162" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/ic_email.xml" value="0.162" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/ic_lock.xml" value="0.162" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/drawable/side_nav_bar.xml" value="0.152" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/activity_dash_board.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/activity_login.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/activity_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/activity_registration.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/activity_shared_pref.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/activity_splash.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/app_bar_dash_board.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/content_dash_board.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/fragment_a.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/layout/nav_header_dash_board.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/ECampus/app/src/main/res/menu/activity_main_drawer.xml" value="0.29322916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
